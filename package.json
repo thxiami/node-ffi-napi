@@ -1,5 +1,5 @@
 {
-  "name": "ffi-napi",
+  "name": "@xingrz/ffi-napi",
   "version": "4.0.3",
   "license": "MIT",
   "author": "Anna Henningsen <anna@addaleax.net>",
@@ -20,7 +20,7 @@
     "napi",
     "stable"
   ],
-  "homepage": "http://github.com/node-ffi-napi/node-ffi-napi",
+  "homepage": "http://github.com/xingrz/node-ffi-napi",
   "engines": {
     "node": ">=10"
   },
@@ -49,9 +49,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/node-ffi-napi/node-ffi-napi.git"
+    "url": "http://github.com/xingrz/node-ffi-napi.git"
   },
   "bugs": {
-    "url": "http://github.com/node-ffi-napi/node-ffi-napi/issues"
+    "url": "http://github.com/xingrz/node-ffi-napi/issues"
   }
 }
