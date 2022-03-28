@@ -25,7 +25,9 @@
     "node": ">=12"
   },
   "main": "./lib/ffi",
+  "types": "./lib/ffi.d.ts",
   "dependencies": {
+    "@types/ffi-napi": "^4.0.5",
     "debug": "^4.1.1",
     "get-uv-event-loop-napi-h": "^1.0.5",
     "node-addon-api": "^3.0.0",
