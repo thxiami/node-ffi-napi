@@ -6,7 +6,8 @@
   "contributors": [
     "Rick Branson <rick@diodeware.com>",
     "Nathan Rajlich <nathan@tootallnate.net>",
-    "Gabor Mezo <gabor.mezo@outlook.com>"
+    "Gabor Mezo <gabor.mezo@outlook.com>",
+    "xiami <thxiami@gmail.com>"
   ],
   "description": "A foreign function interface (FFI) for Node.js, N-API style",
   "keywords": [
